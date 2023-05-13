@@ -12,6 +12,10 @@ const CONFIG = {
   },
   projects: [
     {
+      name: `ChatGPT Reverse Proxy`,
+      href: "https://ai.nekodayo.top/",
+    },
+    {
       name: `negoces's blog`,
       href: "https://github.com/negoces/notion-blog",
     },
