@@ -2,8 +2,8 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "negoces",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "无业游民",
+    image: "/avatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "即将失业的学牲",
     bio: "我只是一只小废物",
     email: "neko@nekodayo.top",
     linkedin: "",
@@ -12,7 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `ChatGPT Reverse Proxy`,
+      name: `ChatGPT Web (Need API Key)`,
       href: "https://ai.nekodayo.top/",
     },
     {
